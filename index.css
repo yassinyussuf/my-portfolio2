@@ -1,0 +1,57 @@
+body{
+    background-color:white;
+     margin: 10px ;
+     border: 5px;
+     border-radius: 8px;
+     padding: 4px;
+}
+.yussuf{
+    background-color:rgb(33, 33, 82) ;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0;
+    width: 95%;
+  }
+  
+  .header {
+    text-align: center;
+  }
+  
+  h1 {
+    font-size: 2em;
+    color: #333;
+  }
+
+  .yassin {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    margin: 10px;
+    justify-content: space-between;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  nav {
+    background-color:#333;
+  }
+  
+  ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+  }
+  
+  li {
+    padding: 10px;
+  }
+  
+  a {
+    text-decoration: none;
+    color: white;
+  }
+  
+  a:hover {
+    text-decoration: underline;
+  }
