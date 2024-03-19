@@ -1,5 +1,6 @@
 body{
-    background-color:white;
+  background-image: url(https://wallpapers.com/images/featured/4k-white-i308ljad82204626.jpg);
+    background-size: cover;
      margin: 10px ;
      border: 5px;
      border-radius: 8px;
@@ -13,11 +14,11 @@ body{
     margin: 0;
     width: 95%;
   }
-  
+
   .header {
     text-align: center;
   }
-  
+
   h1 {
     font-size: 2em;
     color: #333;
@@ -31,27 +32,8 @@ body{
     justify-content: center;
     align-items: center;
   }
+
+  .button-container{
+    margin-left: 90%;
   
-  nav {
-    background-color:#333;
-  }
-  
-  ul {
-    list-style-type: none;
-    margin: 0;
-    padding: 0;
-    display: flex;
-  }
-  
-  li {
-    padding: 10px;
-  }
-  
-  a {
-    text-decoration: none;
-    color: white;
-  }
-  
-  a:hover {
-    text-decoration: underline;
   }
